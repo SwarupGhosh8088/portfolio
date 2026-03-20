@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "level": "Bachelor of Computer Applications (BCA)",
+    "institution": "Adamas University",
+    "location": "Kolkata, West Bengal",
+    "duration": "2024 - 2027",
+    "status": "Pursuing",
+    "image": "/adamas.jpg"
+  },
+  {
+    "id": 2,
+    "level": "Class 12",
+    "institution": "Army Public School",
+    "location": "Amritsar, Punjab",
+    "duration": "2022 - 2023",
+    "status": "Completed",
+    "image": "/apsasr.jpg"
+  },
+  {
+    "id": 3,
+    "level": "Class 10",
+    "institution": "Army Public School",
+    "location": "Bengaluru, Karnataka",
+    "duration": "2020 - 2021",
+    "status": "Completed",
+    "image": "/apsasc.jpg"
+  }
+]

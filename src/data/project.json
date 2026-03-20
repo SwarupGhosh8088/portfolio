@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Portfolio",
+    "image": "/portfolio.png",
+    "description": "Personal portfolio with React & Tailwind",
+    "tech": ["React", "Tailwind"],
+    "github": "https://github.com/SwarupGhosh8088/my-project",
+    "live": "https://swarupghosh8088.netlify.app/"
+  },
+  {
+    "name": "Bond Fintech",
+    "image": "/bond.png",
+    "description": "Fintech project with React & Tailwind",
+    "tech": ["React", "Tailwind"],
+    "github": "#",
+    "live": "#"
+  },
+  {
+    "name": "Devloping",
+    "image": "/devloping.png",
+    "description": "Development project with React & Tailwind",
+    "tech": ["React", "Tailwind"],
+    "github": "#",
+    "live": "#"
+  }
+]
