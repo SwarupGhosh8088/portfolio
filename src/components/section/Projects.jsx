@@ -14,7 +14,7 @@ const Projects = ({darkMode}) => {
           {projects.map((project, index) => (
             <div
               key={index}
-              className={ `rounded-xl overflow-hidden shadow-lg hover:scale-105 transition duration-300 ${darkMode ?"bg-black text-white":"bg-white shadow-gray-300  border-b-gray-800 text-black"}`}
+              className={ `rounded-xl overflow-hidden shadow-lg hover:scale-105 transition duration-300 ${darkMode ?" bg-gray-950 text-white":"bg-white shadow-gray-300  border-b-gray-800 text-black"}`}
             >
               <img
                 src={project.image}
