@@ -45,21 +45,21 @@ const Home = ({ darkMode }) => {
                 className="w-10 h-10 rounded-[70%] bg-white transform transition-all hover:scale-110"
               />
             </a>
-            <a href="https://www.linkedin.com/in/swarup-ghosh-">
+            <a href="https://www.linkedin.com/in/swarupghosh726">
               <img
                 src={linkdin}
                 alt=""
                 className="w-10 h-10 rounded-full bg-white transform transition-all hover:scale-110"
               />
             </a>
-            <a href="https://www.youtube.com/@swarupghosh">
+            <a href="https://www.youtube.com/">
               <img
                 src={youtube}
                 alt=""
                 className="w-10 h-10 rounded-full bg-white transform transition-all hover:scale-110"
               />
             </a>
-            <a href="https://github.com/swarupghosh">
+            <a href="https://github.com/swarupghosh8088">
               <img
                 src={github}
                 alt=""

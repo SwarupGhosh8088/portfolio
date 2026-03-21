@@ -7,7 +7,7 @@ const Education = ({ darkMode }) => {
   const cardBg = darkMode ? "bg-gray-900" : "bg-gray-100";
 
   return (
-    <div className={`w-full p-6 ${bg} transition-colors duration-300`}>
+    <div id="edu" className={`w-full p-6 ${bg} transition-colors duration-300`}>
       {/* Section Header */}
       <h2 className="text-2xl font-bold mb-6 relative inline-block p-5">
         Education & Experience
